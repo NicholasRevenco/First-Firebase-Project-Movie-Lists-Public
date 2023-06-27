@@ -1,3 +1,9 @@
+#Movie Lists First Firebase Project
+
+This is my first time researching and using Firebase's storage, authentication, and database systems.
+I made a movie list project where the user is able to add movies, update the information about movies, and delete movies.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
